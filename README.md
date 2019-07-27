@@ -13,5 +13,22 @@ Our project revolves around Fedora+. Our documentation shows all of the planning
 
 ## Some artifacts included in our project documentation:
 ### Class Diagram, Iteration 1:
-![](https://raw.githubusercontent.com/jalvarez24/362-Term-Project/master/362%20Images/UC%20Diagram.png)
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/Class1.png)
 
+### Class Diagram, Iteration 2:
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/Class2.png)
+
+### Use Case Diagram, Iteration 1:
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/UC1.png)
+
+### Use Case Diagram, Iteration 2:
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/UC2.png)
+
+### Sequence Diagram:
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/seq1.png)
+
+### Deployment Diagram:
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/deploymentD.png)
+
+### GoF Patterns (Gang of Four Design Patters):
+![](https://raw.githubusercontent.com/jalvarez24/462-Software-Design-Project/master/Fedora%20Images/GoF.png)
