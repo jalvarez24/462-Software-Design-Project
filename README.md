@@ -1,4 +1,4 @@
-# 462-Software-Design-Project
+# 462-Software-Design-Project (Spring 2019)
 Goal of Group Project: Using the Object-Oriented Analysis/Design (OOAD) and Unified Process (UP), build software for the target system. The focus of this project is more on the documentation (design and planning) rather than the coding process. 
 
 # Group 
