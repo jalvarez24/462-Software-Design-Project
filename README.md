@@ -9,4 +9,4 @@ Himanshu Patel
 Kim-Lan Hoang
 
 # Project: 
-Our project revolves aroudnd Fedora+. Our documentation shows all of the planning we did towards our target system. Our project follows an iterative (AGILE) approach to development and is demonstrated through the artifacts in our documentation.
+Our project revolves around Fedora+. Our documentation shows all of the planning we did towards our target system. Our project follows an iterative (AGILE) approach to development and is demonstrated through the artifacts in our documentation.
