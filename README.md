@@ -12,4 +12,6 @@ Kim-Lan Hoang
 Our project revolves around Fedora+. Our documentation shows all of the planning we did towards our target system. Our project follows an iterative (AGILE) approach to development and is demonstrated through the artifacts in our documentation.
 
 ## Some artifacts included in our project documentation:
+### Class Diagram, Iteration 1:
+(https://raw.githubusercontent.com/jalvarez24/362-Term-Project/master/362%20Images/UC%20Diagram.png)
 
