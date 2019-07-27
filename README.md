@@ -13,5 +13,5 @@ Our project revolves around Fedora+. Our documentation shows all of the planning
 
 ## Some artifacts included in our project documentation:
 ### Class Diagram, Iteration 1:
-!(https://raw.githubusercontent.com/jalvarez24/362-Term-Project/master/362%20Images/UC%20Diagram.png)
+![](https://raw.githubusercontent.com/jalvarez24/362-Term-Project/master/362%20Images/UC%20Diagram.png)
 
